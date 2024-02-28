@@ -2,7 +2,7 @@
 
 https://docs.agriwebb.com
 
-This is a wrapper to the Agriwebb API. It's not complete (much like the API), likely needs some refactoring and currently only pulls the two types of reports available (Stock reconcilliation and animal load by paddock). Feel free to improve and send me a pull request.
+This is a wrapper to the Agriwebb API. It's not complete (much like the API), likely needs some refactoring, isn't yet well tested and currently only pulls the two types of reports available (Stock reconcilliation and animal load by paddock). Feel free to improve and send me a pull request.
 
 ## Usage
 You will need to have a valid AgriWebb API key.
