@@ -1,0 +1,17 @@
+#exclude venv
+venv/
+
+#exclude reports
+*.csv
+
+# Exclude Apple DS_Store files
+.DS_Store
+
+# Exclude cache
+__pycache__
+
+#exclude logs
+*.log
+
+#exclude config
+*.ini
